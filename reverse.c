@@ -115,7 +115,6 @@ int main(int argc, char *argv[]) {
         exit(1);
     }
 
-// mi
     readLines(inputFile, outputFile);
 
     if (inputFile != stdin) {
